@@ -1,0 +1,16 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "Decrypt the 11 messages in assignment 1 question 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitwise-xor": "0.0.0",
+    "sha256": "^0.2.0"
+  }
+}
